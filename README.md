@@ -25,4 +25,4 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas** e **est
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phillipi%20Garcia-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipi-garcia-385986268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phillipi%20Garcia-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phillipi-garcia)
