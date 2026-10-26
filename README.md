@@ -1,26 +1,27 @@
 # Olá, eu sou o Phillipi Garcia
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas** e **estagiário de TI**.
+Estudante de **Análise e Desenvolvimento de Sistemas** na **PUC Minas** e **estagiário de TI**, lidando no dia a dia com desenvolvimento web, infraestrutura e suporte técnico.
 
 ## O que eu faço
 
-- Criei um **portal de relatórios** para a equipe de engenharia da empresa
-- **Reformulei o site** da empresa
-- Desenvolvo **APIs REST** em **C# / ASP.NET Core** e **Node.js**, com **SQL** e **MongoDB**
-- Cuido de **infraestrutura**: Windows Server, Linux, DNS e e-mail
+- Desenvolvi um **portal web de entrega de relatórios** usado pelo setor de engenharia
+- **Reformulei o site institucional** e reestruturei a tecnologia dos setores
+- Desenvolvo **APIs REST** em **C# (ASP.NET Core)** e **Node.js**, integradas a bancos **SQL** e **MongoDB**
+- Administro hospedagem, **DNS**, **e-mail corporativo**, **Windows Server** e **Linux**
 
 ## Tecnologias
 
-- **Back-end:** C# · ASP.NET Core · Node.js · Python
-- **Bancos de dados:** SQL · MongoDB
-- **Infra e cloud:** Windows Server · Linux · DNS · E-mail · AWS
+- **Linguagens:** Python · JavaScript · C# · Java · C/C++ · PHP · SQL · HTML/CSS
+- **Back-end e APIs:** APIs REST · ASP.NET Core · Node.js · Swagger
+- **Banco de dados:** SQL · MongoDB
+- **Infra e cloud:** AWS · Linux (Ubuntu, Red Hat) · Windows Server · Redes · DNS · E-mail
 
 ## Certificações
 
-- AWS Cloud Foundations
-- Cisco Network Technician
-- Cisco Cyber Threat Management
-- Red Hat Linux
+- Linux Fundamentals 9.1 · Red Hat (nov/2025)
+- AWS Academy Cloud Foundations · AWS (out/2025)
+- Network Technician Career Path · Cisco (out/2025)
+- Cyber Threat Management · Cisco (set/2025)
 
 ## Contato
 
